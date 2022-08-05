@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'p3e-fritzbox'
+project = 'p3exporter-fritzbox-smarthome'
 copyright = '2022, codeaffen'
 author = 'codeaffen'
 
